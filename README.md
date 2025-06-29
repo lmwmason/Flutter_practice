@@ -1,2 +1,2 @@
-# flutter_apps
-Applications made with flutter!!
+# flutter_practice
+Flutter code that I made for practicing
